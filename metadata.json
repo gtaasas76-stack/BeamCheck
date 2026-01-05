@@ -1,0 +1,7 @@
+{
+  "name": "BeamCheck",
+  "description": "Smart vehicle assistant and fuel price checker.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
